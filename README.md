@@ -37,7 +37,7 @@ projeto-sociais/
 - Links externos abrindo em nova aba para cada rede social
 - Layout adaptável a diferentes resoluções
 
-## 📸 Screenshot
+## 📸 Prévia do projeto
 
 ![Preview do Projeto](img/screenshot.png)
 
